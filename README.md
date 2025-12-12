@@ -3,7 +3,7 @@
 Python full-stack developer who enjoys building clean and scalable applications.  
 Currently improving my **DSA**, **backend engineering**, and **frontend engineering** skills.
 
-### 🚀 Tech I work with
+### 💻 Tech I work with
 - Python, Django, DRF  
 - React.js  
 - PostgreSQL, MySQL  
