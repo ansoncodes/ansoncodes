@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Anson 👋
 
-<!--
-**ansoncodes/ansoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python full-stack developer who enjoys building clean and scalable applications.  
+Currently improving my **DSA**, **backend engineering**, and **frontend engineering** skills.
 
-Here are some ideas to get you started:
+### 🚀 Tech I work with
+- Python, Django, DRF  
+- React.js  
+- PostgreSQL, MySQL  
+- Git, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Learning
+- Data Structures & Algorithms  
+- ML  
+
+### 📫 Contact
+**Email:** ansonantony783@gmail.com
