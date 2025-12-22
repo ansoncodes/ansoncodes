@@ -13,7 +13,7 @@ Currently improving my **DSA**, **backend engineering**, and **frontend engineer
 - Data Structures & Algorithms  
 - ML
     
-## Portfolio: [anson-antony.netlify.app](https://anson-antony.netlify.app/)
+**Portfolio:** [anson-antony.netlify.app](https://anson-antony.netlify.app/)
 
 ### 📫 Contact
 **Email:** ansonantony783@gmail.com
