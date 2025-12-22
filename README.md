@@ -1,19 +1,29 @@
-## Hey, I'm Anson 👋
+# 👋 Hi, I'm Anson
 
-Python full-stack developer who enjoys building clean and scalable applications.  
-Currently improving my **DSA**, **backend engineering**, and **frontend engineering** skills.
+I'm a **Python Full-Stack Developer** who enjoys building clean, scalable, and well-structured applications. Currently focused on strengthening my **DSA**, **backend engineering**, and **frontend engineering** skills.
 
-### 💻 Tech I work with
-- Python, Django, DRF  
-- React.js  
-- PostgreSQL, MySQL  
-- Git, Docker  
+## 🛠️ Tech Stack
 
-### 🧠 Learning
-- Data Structures & Algorithms  
-- ML
-    
-**Portfolio:** [anson-antony.netlify.app](https://anson-antony.netlify.app/)
+**Backend:** Python, Django, Django REST Framework  
+**Frontend:** React.js  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Docker
 
-### 📫 Contact
-**Email:** ansonantony783@gmail.com
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+
+## 🌐 Portfolio
+
+🔗 [anson-antony.netlify.app](https://anson-antony.netlify.app)
+
+## 📬 Contact
+
+📧 Email: [ansonantony783@gmail.com](mailto:ansonantony783@gmail.com)
+
+---
+
+<div align="center">
+  <i>Open to collaboration and new opportunities!</i>
+</div>
