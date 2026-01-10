@@ -16,7 +16,7 @@ I'm a **Python Full-Stack Developer** who enjoys building clean, scalable, and w
 
 ## 🌐 Portfolio
 
-🔗 [anson-antony.netlify.app](https://anson-antony.netlify.app)
+🔗 [anson-antony.vercel.app](https://anson-antony.vercel.app)
 
 ## 📬 Contact
 
