@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anson
 
-I'm a **Python Full-Stack Developer** who enjoys building clean, scalable, and well-structured applications. Currently focused on strengthening my **DSA**, **backend engineering**, and **frontend engineering** skills.
+I'm a **Python Full-Stack and AI Developer** who enjoys building clean, scalable, and well-structured applications. Currently focused on strengthening my **DSA**, **backend engineering**, and **frontend engineering** skills.
 
 ## 🛠️ Tech Stack
 
